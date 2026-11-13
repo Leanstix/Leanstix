@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Olamilekan.</title>
+  <desc id="desc">Full stack engineer. Thoughtful interfaces. Dependable systems.</desc>
+  <defs>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="16" cy="16" r=".8" fill="#64748b" opacity=".35"/></pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bdcc4"/><stop offset="1" stop-color="#e59cac"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#090c10"/>
+  <rect width="1200" height="360" fill="url(#dots)"/>
+  <path d="M0 88H250V0" fill="none" stroke="#8bdcc4" opacity=".7"/>
+  <circle cx="1110" cy="5" r="234" fill="none" stroke="#e59cac" stroke-width="1.3"/>
+  <path d="m940 360 207-269v269" fill="none" stroke="#8bdcc4" stroke-width="1.3"/>
+  <path d="M0 330H1200" stroke="#8bdcc4" opacity=".1"/>
+  <g transform="translate(80 110)">
+    <circle cx="12" cy="12" r="12" fill="url(#accent)"/>
+    <rect x="48" width="24" height="24" rx="2" fill="url(#accent)"/>
+    <path d="m120 0-22 12 22 12Z" fill="url(#accent)"/>
+    <text x="0" y="86" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">Hello, I’m Olamilekan.</text>
+    <text x="0" y="126" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#aeb8c4">Thoughtful interfaces. Dependable systems.</text>
+    <text x="0" y="179" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#8bdcc4">FULL STACK ENGINEER  /  PYTHON + TYPESCRIPT</text>
+  </g>
+</svg>
