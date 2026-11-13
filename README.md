@@ -4,7 +4,6 @@
 
 - I’m **Aleshinloye Olamilekan**, a full stack engineer based in Ibadan, Nigeria, with a strong backend focus.
 - I build web and mobile products, payment systems, multi-tenant platforms, and developer tools with **Python and TypeScript**.
-- At **Kenkeputa**, I work on VendorizeMe’s marketplace, mobile features, payments, and native search. At **Xeta Digital**, I build visitor-management systems and the APIs behind them.
 - Creator of [pytest-authz-matrix](https://github.com/Leanstix/pytest-authz-matrix), an open-source tool for testing API authorization.
 - I built the ML and intelligence layers for **Lafiya**, our **HealthTrace Hackathon 2026-winning** project.
 - Studying Computer Science at the **University of Ibadan**. Outside engineering: poker, history, and human intellectual development.
